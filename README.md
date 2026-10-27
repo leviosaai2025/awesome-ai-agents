@@ -5486,12 +5486,12 @@ Science, Productivity, Business intelligence
 
 </details>
 
-## [Yomates](https://www.yomates.app/)
+## [Yomates](https://yomates.ai/)
 A team of AI agents that do a seller's store admin in a real browser on their own computer
 
 <details>
 
-![image](https://www.yomates.app/favicon.png)
+![image](https://yomates.ai/favicon.png)
 
 ### Category
 Productivity, General purpose, Marketing, Sales
@@ -5503,7 +5503,7 @@ Productivity, General purpose, Marketing, Sales
 - Runs on the user's own ChatGPT, Claude or Gemini plan, or an API key
 
 ### Links
-- [Web](https://www.yomates.app/)
+- [Web](https://yomates.ai/)
 - [LinkedIn](https://www.linkedin.com/company/leviosaai-kr)
 - [Instagram](https://www.instagram.com/yomates.ai)
 
